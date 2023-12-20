@@ -125,4 +125,6 @@ Trying execute `GET: /api/CoursesApi`:
 
 ![No Authentication](resources/200.png)
 
+Refer to [Bearer Authentication](https://swagger.io/docs/specification/authentication/bearer-authentication/).
+
 Next let's [Part 14: HttpClient](https://github.com/NguyenPhuDuc307/httpclient).
